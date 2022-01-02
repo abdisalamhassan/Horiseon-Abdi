@@ -1,3 +1,17 @@
-# Horiseon-Abdi
-Project Title: HTML CSS Git Challenge: Code Refactor
-Objective: Look through code and find errors (links that dont work, redundant code etc)
+Horiseon
+
+Purpose
+
+A website that offers fitness training services.
+
+Built With
+
+HTML
+CSS
+Website
+
+https://lernantino.github.io/run-buddy/
+
+Contribution
+
+Edited by Abdi Hassan
