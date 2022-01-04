@@ -14,7 +14,7 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-/* Horiseon Title*/
+
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -86,27 +86,55 @@ p {
     background-color: #2589bd;
 }
 
-/* All 3 of these share the same css*/
-.benefit-lead , .benefit-brand , .benefit-cost {
+.benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/* All 3 of these share the same css*/
-.benefit-lead h3 , .benefit-brand h3 , .benefit-cost h3 {
+.benefit-brand {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* All 3 of these share the same css*/
-.benefit-lead img , .benefit-brand img , .benefit-cost img{
+.benefit-brand h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/*All 3 of these share the same css*/
-.search-engine-optimization, .online-reputation-management , .social-media-marketing{
+.benefit-brand img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.benefit-cost img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -115,8 +143,33 @@ p {
     color: #ffffff;
 }
 
-/*All 3 of these images share a max height*/
-.search-engine-optimization img,.online-reputation-management img,.social-media-marketing img {
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.search-engine-optimization img {
+    max-height: 200px;
+}
+
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+.social-media-marketing img {
     max-height: 200px;
 }
 
