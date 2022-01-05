@@ -4,7 +4,7 @@ Code Refactor Challenge
 
 The goal of this challenge is to organize the provided code to make it more organized and fixing some errors. These errors include lack of tags and semantic elements. There is also some redundant elements with the CSS that can can be grouped together.
 
-Deployed URL: file:///Users/abdisalamhassan/Desktop/Coding/Horiseon-Abdi/Horiseon/Develop/index.html
+Deployed URL: https://abdisalamhassan.github.io/Horiseon-Abdi/
 GitHub Repo URL: https://github.com/abdisalamhassan/Horiseon-Abdi
 
 Screen Shot 2022-01-04 at 11 12 20 AM
